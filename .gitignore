@@ -1,0 +1,5 @@
+# Ignoring buid folders
+bin/
+
+# Ignoring environmental variables
+.env
